@@ -4,3 +4,5 @@ def solution(n):
     for i in string:
         answer += int(i)
     return answer
+
+print(solution(123))
